@@ -12,7 +12,7 @@
 * HTML
 * CSS
 ---
-<img src="colorGame" width="100%" alt="Color Game">
+<img src="colorGame.png" width="100%" alt="Color Game">
 
 
 
